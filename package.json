@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-conforama",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Conforama depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-conforama",
+    "bon-de-reduction-conforama",
+    "coupon-conforama",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/conforama.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-conforama.git"
+  }
+}
